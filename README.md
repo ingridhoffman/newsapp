@@ -1,0 +1,2 @@
+# newsapp
+nextjs ~ typescript ~ aws
